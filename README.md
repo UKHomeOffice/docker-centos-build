@@ -1,6 +1,5 @@
 # Docker Build Image for the Home Office
 
-[![Build Status](https://travis-ci.org/UKHomeOffice/docker-centos-build.svg?branch=master)](https://travis-ci.org/UKHomeOffice/docker-centos-build)
 
 This is a build image to ensure that all home office containers are built on a stable base.  This means that problems with the build image being updated
 can be discounted as it is a fixed point.
